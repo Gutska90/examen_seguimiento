@@ -1,0 +1,15 @@
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\exception\DuplicateResourceException.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\exception\ResourceNotFoundException.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\exception\ValidationErrorResponse.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\exception\ErrorResponse.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\model\Shipment.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\model\ShipmentStatus.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\exception\GlobalExceptionHandler.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\dto\ShipmentResponse.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\ShipmentTrackingApplication.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\seguimiento\config\OracleWalletConfig.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\service\ShipmentService.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\dto\ShipmentRequest.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\repository\ShipmentRepository.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\controller\ShipmentController.java
+C:\Users\luisb\Desktop\Microservicio-Seguimiento\src\main\java\com\shipping\service\impl\ShipmentServiceImpl.java

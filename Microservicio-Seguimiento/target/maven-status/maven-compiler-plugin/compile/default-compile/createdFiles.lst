@@ -1,0 +1,15 @@
+com\shipping\exception\DuplicateResourceException.class
+com\shipping\service\ShipmentService.class
+com\shipping\model\ShipmentStatus.class
+com\seguimiento\config\OracleWalletConfig.class
+com\shipping\dto\ShipmentResponse.class
+com\shipping\model\Shipment.class
+com\shipping\repository\ShipmentRepository.class
+com\shipping\controller\ShipmentController.class
+com\shipping\exception\ResourceNotFoundException.class
+com\shipping\ShipmentTrackingApplication.class
+com\shipping\service\impl\ShipmentServiceImpl.class
+com\shipping\exception\GlobalExceptionHandler.class
+com\shipping\exception\ValidationErrorResponse.class
+com\shipping\exception\ErrorResponse.class
+com\shipping\dto\ShipmentRequest.class
